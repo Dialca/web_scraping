@@ -9,4 +9,4 @@ def config():
 
             config = yaml.load(f)
 
-    return config
+    return config #en construccion
